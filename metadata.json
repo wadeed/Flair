@@ -1,0 +1,5 @@
+{
+  "name": "Flair Cloud Service Status Monitor",
+  "description": "An application for Security Operations Center (SOC) teams to monitor the real-time status of major cloud services like AWS, Azure, and Google Cloud, using AI to check and summarize outages.",
+  "requestFramePermissions": []
+}

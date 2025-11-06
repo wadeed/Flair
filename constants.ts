@@ -1,0 +1,17 @@
+export const CLOUD_SERVICES: string[] = [
+  'Amazon Web Services',
+  'Microsoft Azure',
+  'Google Cloud',
+  'Cloudflare',
+  'Mimecast',
+  'Okta',
+  'GitHub',
+  'Datadog',
+  'Atlassian Jira',
+  'Slack',
+  'Salesforce',
+  'Netsuite',
+  'Microsoft 365',
+  'Zendesk',
+  'Twilio',
+];
